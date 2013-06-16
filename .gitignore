@@ -1,0 +1,16 @@
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.gen
+*.roo
+*.dot
+*.jpage
+*.project
+*.classpath
+*.springBeans
+.settings/
+target/
+test-output/
+.idea

@@ -3,7 +3,7 @@
 
 	<groupId>com.app</groupId>
 	<artifactId>utility</artifactId>
-	<version>1.0</version>
+	<version>1.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>utility</name>
@@ -14,7 +14,7 @@
 		<connection>scm:git:git@github.com:akuntamukkala/mrp-git-cb-demo.git</connection>
 		<url>scm:git:git@github.com:akuntamukkala/mrp-git-cb-demo.git</url>
 		<developerConnection>scm:git:git@github.com:akuntamukkala/mrp-git-cb-demo.git</developerConnection>
-		<tag>utility-1.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<!-- CloudBees Artifact Repository for release and snapshot builds -->
 	<!-- The repositories are accessible using WebDAV -->
